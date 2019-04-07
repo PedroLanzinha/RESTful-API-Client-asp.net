@@ -1,0 +1,10 @@
+C:\Users\Pedrolan\source\repos\restClient\restClient\bin\Debug\restClient.exe.config
+C:\Users\Pedrolan\source\repos\restClient\restClient\bin\Debug\restClient.exe
+C:\Users\Pedrolan\source\repos\restClient\restClient\bin\Debug\restClient.pdb
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\CSharpRestClient.csprojAssemblyReference.cache
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\restClient.Form1.resources
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\restClient.Properties.Resources.resources
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\CSharpRestClient.csproj.GenerateResource.cache
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\CSharpRestClient.csproj.CoreCompileInputs.cache
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\restClient.exe
+C:\Users\Pedrolan\source\repos\restClient\restClient\obj\Debug\restClient.pdb
